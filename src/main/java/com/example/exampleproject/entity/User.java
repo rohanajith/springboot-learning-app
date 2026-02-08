@@ -1,5 +1,6 @@
 package com.example.exampleproject.entity;
 
+//// Create a JPA entity for User with id, name, email, age
 
 import jakarta.persistence.*;
 import lombok.*;
