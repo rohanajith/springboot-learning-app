@@ -1,5 +1,7 @@
 package com.example.exampleproject.service;
 
+// Service class for User CRUD operations
+
 import com.example.exampleproject.entity.User;
 import com.example.exampleproject.repository.UserRepository;
 import org.springframework.stereotype.Service;
